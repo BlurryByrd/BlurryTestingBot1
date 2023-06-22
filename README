@@ -1,0 +1,2 @@
+If you copy this, you'll get a config/token error. Make another file named config and put TOKEN = 'INSET TOKEN HERE'
+If that doesn't work, ask me or something
